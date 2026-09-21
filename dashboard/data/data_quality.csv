@@ -1,0 +1,7 @@
+metric,value
+Raw Orders,10012
+Clean Orders,9987
+Duplicate Order IDs,12
+Missing Customer IDs,7
+Invalid Discounts,4
+Invalid Quantities,2

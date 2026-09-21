@@ -4,6 +4,7 @@ import sys
 
 STEPS = [
     ("Validate data", "src/validate_data.py"),
+    ("Build AI context", "src/build_ai_context.py"),
     ("Clean data", "src/clean_data.py"),
     ("Load database", "src/load_database.py"),
     ("Export Power BI data", "src/export_powerbi_data.py"),

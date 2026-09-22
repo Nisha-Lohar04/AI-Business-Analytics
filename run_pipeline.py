@@ -12,6 +12,8 @@ STEPS = [
     ("Export top products", "src/export_top_products.py"),
     ("Export data quality", "src/export_quality.py"),
     ("Generate business insights", "src/generate_business_insights.py"),
+    ("Generate AI business analyst report", "src/ai_business_analyst.py"),
+    ("Validate AI business analyst report", "src/validate_ai_report.py"),
 ]
 
 

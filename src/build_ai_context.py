@@ -12,7 +12,7 @@ REPORT_DIR.mkdir(exist_ok=True)
 
 
 def money(value):
-    return round(float(value), 2)
+    return f"₹{float(value):,.2f}"
 
 
 # Load analytical datasets
